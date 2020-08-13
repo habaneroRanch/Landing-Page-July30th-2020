@@ -10,8 +10,10 @@ The landing page READ ME as follows;
 ## Functionalities
 
 - Navigation
+- Hide inactive Navigation Bar 
 - dynamtic active
 - scrolling
+- Back to Top button
 
 ## How to use:
 
